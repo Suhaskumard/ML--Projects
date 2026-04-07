@@ -10,7 +10,7 @@ It supports:
 * Local Outlier Factor (LOF)
 * One-Class SVM
 
-The system performs preprocessing, anomaly detection, model comparison, and visualization.
+The system performs preprocessing, anomaly detection, model comparison, and visualization. 
 
 --- 
 

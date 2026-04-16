@@ -17,9 +17,29 @@ This project predicts whether a customer will churn using machine learning on th
 ## 📂 Dataset
 - Source: Kaggle
 - Dataset: Telco Customer Churn
-- File: `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`
+File: `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`
+
+## 📂 Project Structure
+
+```bash
+customer-churn/
+│
+├── data/
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│
+├── preprocess.py
+├── train.py
+├── evaluate.py
+├── app.py
+├── model.pkl
+├── requirements.txt
+├── TODO.md
+└── README.md
+```
 
 ---
+
+
 
 ## 🧠 Models Used
 - Random Forest Classifier

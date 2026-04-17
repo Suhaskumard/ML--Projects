@@ -7,7 +7,7 @@ An advanced machine learning project with modular architecture, feature engineer
 ## 🚀 Highlights
 
 - **Modular codebase** - Separated concerns (data, features, train, predict)
-- **Feature engineering pipeline** - Price/sqft, area/bedroom, age factors
+- **Feature engineering pipeline** - Price/sqft, area/bedroom, age factors 
 - **Hyperparameter optimization** - GridSearchCV with cross-validation
 - **Professional logging** - Structured logs for monitoring
 - **Production endpoints** - Train, evaluate, predict separation

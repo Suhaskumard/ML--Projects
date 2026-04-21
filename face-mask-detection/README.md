@@ -85,20 +85,3 @@ Generates 2000 images:
 
 ---
 
-## 👨‍💻 Author
-
-**Suhas Kumar**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## ⭐ Acknowledgment
-
-* Kaggle for dataset
-* OpenCV for face detection
-* TensorFlow/Keras for deep learning model

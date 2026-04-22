@@ -13,7 +13,7 @@ The model predicts one of the following activities:
 | 0 | WALKING |
 | 1 | WALKING_UPSTAIRS |
 | 2 | WALKING_DOWNSTAIRS |
-| 3 | SITTING | 
+| 3 | SITTING |  
 | 4 | STANDING |
 | 5 | LAYING |
 

@@ -6,7 +6,7 @@ This project predicts diseases based on user symptoms using a machine learning m
 
 ## ⚙️ Technologies Used
 
-* Python 
+* Python  
 * Scikit-learn
 * Flask
 * Pandas

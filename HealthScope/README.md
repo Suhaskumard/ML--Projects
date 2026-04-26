@@ -39,6 +39,7 @@ python train_model.py
 python app.py
 ```
 
+
 ### Step 4: Test API
 
 POST request:
@@ -66,8 +67,4 @@ Body:
 * Add GUI (React / HTML)
 * Use advanced ML models
 * Add real medical dataset
-
-## ⚠️ Disclaimer
-
-This project is for educational purposes only and not for medical use.
 
